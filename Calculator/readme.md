@@ -7,7 +7,6 @@ This repository contains a simple, interactive **Calculator** web application bu
 - Basic arithmetic operations: addition, subtraction, multiplication, division, modulus
 - Supports both button clicks and keyboard input
 - Clear (`AC`) and delete (`DEL`) functionality
-- Error handling for invalid expressions
 - Responsive design for desktop and mobile browsers
 
 ## Folder Structure
